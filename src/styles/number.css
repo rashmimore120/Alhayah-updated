@@ -1,0 +1,17 @@
+.counter{
+    font-size: 2rem;
+    font-weight: 600;
+    color: #ddd;
+}
+
+.counter_title{
+    font-size: 1rem;
+    color: #ddd;
+    font-weight: 500;
+}
+
+.number_content{
+    padding-left: 50px;
+    color: #ddd;
+}
+

@@ -40,7 +40,7 @@ const Testimonial = () => {
             </div>
 
             <div>
-                <h5 className='customer_name'>Hasan Al Naqi</h5>
+                <h5 className='customer_name'>Hasan</h5>
                 <p className='description'>CEO</p>
                
                
@@ -60,7 +60,7 @@ const Testimonial = () => {
             </div>
 
             <div>
-                <h5 className='customer_name'>Md Mustafizur Rahman</h5>
+                <h5 className='customer_name'>Rahman</h5>
                 <p className='description'>Operations Manager</p>
                
             </div>

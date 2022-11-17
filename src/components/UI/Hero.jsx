@@ -14,7 +14,6 @@ import {Link} from "react-router-dom"
 import TextImage1 from './TextImage1';
 import Counter from './Counter';
 import Slider from 'react-slick';
-import Checkout from '../Payment/Checkout';
 
 
 const Hero = ({theme}) => {
@@ -124,7 +123,7 @@ const Hero = ({theme}) => {
         <Counter/>
         <Testimonial/>
         
-        <Checkout/>
+        
         
          
     </section>

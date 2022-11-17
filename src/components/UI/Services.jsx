@@ -3,6 +3,7 @@ import "../../styles/services.css";
 import Services2 from './Services2';
 import {motion} from 'framer-motion';
 
+
 const serviceData = [
     {
         icon: 'ri-global-line',

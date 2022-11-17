@@ -24,12 +24,12 @@ const Contact = () => {
       <div className='contact_info-container d-flex align-items-center gap-5'>
           <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='single_info-box w-50'>
             <h6>Address</h6>
-            <p>Alqasidat, Behind Khuzam Street, Ras Al Khaima</p>
+            <p>Alqasidat, Behind Khuzam Street</p>
           </motion.div>
 
           <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='single_info-box w-50'>
             <h6>Phone</h6>
-            <p>+971 50 570 8777</p>
+            <p>+971 00 000 0000</p>
           </motion.div>
       </div>
         </div>
@@ -39,8 +39,8 @@ const Contact = () => {
         <div className='contact_info-container d-flex align-items-center gap-5'>
         <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='single_info-box w-50'>
             <h6>Email</h6>
-            <p>info@alhayahuae.com
-               h.naqi72@gmail.com
+            <p>info@.com
+               h@gmail.com
             </p>
           </motion.div>
 

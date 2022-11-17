@@ -48,17 +48,17 @@ const quickLinks03 = [
     {
         icon: 'ri-building-2-fill',
         title: 'Address :',
-        des: "Alqasidat, Behind Khuzam Street, Ras Al Khaima"
+        des: "Alqasidat, Behind Khuzam Street"
     },
     {
         icon: 'ri-phone-fill',
         title: 'Mobile No :',
-        des: "+971 50 570 8777"
+        des: "+971 00 000 0000"
     },
     {
         icon: 'ri-mail-fill',
         title: 'Contact at :',
-        des:"info@alhayahuae.com, h.naqi72@gmail.com"
+        des:"info@.com, h@gmail.com"
     },
     
 ]

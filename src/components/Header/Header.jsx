@@ -147,7 +147,7 @@ const Header = ({theme, toggleTheme}) => {
                                 key={index}
                                 className={navClass => navClass.isActive ? 'active_menu' : ''}>
                                 {item.display}
-        <span className="Menuicon"><i class={item.icon}></i></span>
+                      <span className="Menuicon"><i class={item.icon}></i></span>
                                 
                                 </NavLink>
                                 

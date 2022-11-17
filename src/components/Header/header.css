@@ -1,6 +1,5 @@
 .Menuicon i{
-    
-    padding-left: 0.2rem;
+   padding-left: 0.2rem;
 }
 .Menuicon i:hover{
     color: rgb(67, 67, 67);
@@ -243,7 +242,6 @@ nav{display: block;}
     opacity: 1;
     visibility: visible;
 }
-
 
 
 

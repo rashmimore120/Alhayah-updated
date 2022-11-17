@@ -24,7 +24,7 @@ const Contact = () => {
       <div className='contact_info-container d-flex align-items-center gap-5'>
           <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='single_info-box w-50'>
             <h6>Address</h6>
-            <p>Alqasidat, Behind Khuzam Street</p>
+            <p>Khuzam Street</p>
           </motion.div>
 
           <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='single_info-box w-50'>
